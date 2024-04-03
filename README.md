@@ -6,7 +6,7 @@ Para clonar este repositório em seu computador execute:
 
 ```shell
 git clone git@github.com:TiagoGouvea/treinamento-assistentes-abril-2024.git
-cd treinamento-assistentes-abril-2024.git
+cd treinamento-assistentes-abril-2024
 yarn install
 ```
 
