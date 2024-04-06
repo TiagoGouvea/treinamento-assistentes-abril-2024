@@ -7,7 +7,8 @@
     "start": "node 1-primeiro-encontro/helloCompletion.js",
     "chatCompletion": "node 1-primeiro-encontro/chatCompletion.js",
     "chatSpecializedCompletion": "node 1-primeiro-encontro/chatSpecializedCompletion.js",
-    "chatWithDataCompletion": "node 1-primeiro-encontro/chatWithDataCompletion.js"
+    "chatWithDataCompletion": "node 1-primeiro-encontro/chatWithDataCompletion.js",
+    "chatLocalCompletion": "node 1-primeiro-encontro/chatLocalCompletion.js"
   },
   "type": "module",
   "author": "",
