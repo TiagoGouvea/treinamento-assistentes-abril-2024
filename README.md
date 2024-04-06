@@ -6,7 +6,7 @@ Para clonar este repositório em seu computador execute:
 
 ```shell
 git clone git@github.com:TiagoGouvea/treinamento-assistentes-abril-2024.git
-cd treinamento-assistentes-abril-2024.git
+cd treinamento-assistentes-abril-2024
 yarn install
 ```
 
@@ -18,6 +18,7 @@ Assim que eu enviar novos códigos para o repositório ao longo das aulas, baixe
 git pull origin main
 yarn install
 ```
+<<<<<<< HEAD
 
 # Conteúdo
 
@@ -29,3 +30,5 @@ O objetivo será entender a completion por completo. Para isso escreveremos algu
 - [ ] chatCompletion - conversando sobre qualquer coisa, em loop
 - [ ] chatCompletionAssistant - dando uma finalidade a conversa
 - [ ] functionCalling - dar acesso ao GPT para nossos dados (se der tempo)
+=======
+>>>>>>> 20db076194c7d50ee4a31931082eeb2c351b6cac
