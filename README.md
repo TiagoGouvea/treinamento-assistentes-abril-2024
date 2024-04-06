@@ -26,6 +26,6 @@ yarn install
 O objetivo será entender a completion por completo. Para isso escreveremos alguns códigos:
 
 - [x] helloCompletion - apenas um texto e uma resposta
-- [ ] chatCompletion - conversando sobre qualquer coisa, em loop
-- [ ] chatCompletionAssistant - dando uma finalidade a conversa
+- [x] chatCompletion - conversando sobre qualquer coisa, em loop
+- [x] chatCompletionAssistant - dando uma finalidade a conversa
 - [ ] functionCalling - dar acesso ao GPT para nossos dados (se der tempo)
