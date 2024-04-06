@@ -5,7 +5,8 @@
   "main": "1-primeiro-encontro/index.js",
   "scripts": {
     "start": "node 1-primeiro-encontro/helloCompletion.js",
-    "chatCompletion": "node 1-primeiro-encontro/chatCompletion.js"
+    "chatCompletion": "node 1-primeiro-encontro/chatCompletion.js",
+    "chatSpecializedCompletion": "node 1-primeiro-encontro/chatSpecializedCompletion.js"
   },
   "type": "module",
   "author": "",

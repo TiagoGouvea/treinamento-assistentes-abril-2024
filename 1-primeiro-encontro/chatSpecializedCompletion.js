@@ -7,13 +7,14 @@ const openai = new OpenAi({apiKey: process.env.OPENAI_API_KEY});
 
 async function main() {
 
-    let messages = [];
+    let messages = [
+        {role: "system", content: "Você é um assistente e ajuda a organizar eventos."}
+    ];
 
     while (true) {
         // console.log("messages", messages);
 
         const text = await promptMessage("Mensagem>");
-
         messages.push(
             {role: "user", content: text}
         )
