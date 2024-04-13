@@ -52,10 +52,12 @@ async function lookupWeather(location) {
     const options = {
         params: {q: location, content: location},
         headers: {
-            'X-RapidAPI-Key': '9qrylbqOCnmshNNPZ2sQHCoOTi4qp1wN82ojsnHNW1TDIfd9UI',
+            'X-RapidAPI-Key': '',
             'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
         }
     };
+
+    // User Id: '9qrylbqOCnmshNNPZ2sQHCoOTi4qp1wN82ojsnHNW1TDIfd9UI'
 
     try {
         const response = await axios.get('https://weatherapi-com.p.rapidapi.com/current.json',options);
