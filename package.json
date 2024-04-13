@@ -11,7 +11,9 @@
     "chatLocalCompletion": "node 1-primeiro-encontro/chatLocalCompletion.js",
     "functionCalling": "node 2-segundo-encontro/functionCalling.js",
     "functionCallingCsv": "node 2-segundo-encontro/functionCallingCsv.js",
-    "assistant": "node 2-segundo-encontro/assistant.js"
+    "assistant": "node 2-segundo-encontro/assistant.js",
+    "assistantEmail": "node 2-segundo-encontro/assistantEmail.js",
+    "assistantSetup": "node 2-segundo-encontro/assistantSetup.js"
   },
   "type": "module",
   "author": "",
