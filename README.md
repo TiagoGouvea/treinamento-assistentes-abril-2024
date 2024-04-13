@@ -33,8 +33,8 @@ O objetivo será entender a completion por completo. Para isso escreveremos algu
 
 O objetivo será experimentar function calling e também o Assistant API.
 
-- [ ] functionCalling - dar acesso ao GPT para nossos dados
-- [ ] functionCalling - Obter dados de arquivo CSV
-- [ ] functionCalling - Obter dados em tempo real
+- [x] functionCalling - dar acesso ao GPT para nossos dados
+- [x] functionCalling - Obter dados de arquivo CSV
+- [x] functionCalling - Obter dados em tempo real
 - [ ] functionCalling - Enviar email
 - [ ] Assistant API

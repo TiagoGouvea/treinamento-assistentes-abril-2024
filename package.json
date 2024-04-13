@@ -9,7 +9,8 @@
     "chatSpecializedCompletion": "node 1-primeiro-encontro/chatSpecializedCompletion.js",
     "chatWithDataCompletion": "node 1-primeiro-encontro/chatWithDataCompletion.js",
     "chatLocalCompletion": "node 1-primeiro-encontro/chatLocalCompletion.js",
-    "functionCalling": "node 2-segundo-encontro/functionCalling.js"
+    "functionCalling": "node 2-segundo-encontro/functionCalling.js",
+    "functionCallingCsv": "node 2-segundo-encontro/functionCallingCsv.js"
   },
   "type": "module",
   "author": "",
