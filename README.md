@@ -28,4 +28,13 @@ O objetivo será entender a completion por completo. Para isso escreveremos algu
 - [x] helloCompletion - apenas um texto e uma resposta
 - [x] chatCompletion - conversando sobre qualquer coisa, em loop
 - [x] chatCompletionAssistant - dando uma finalidade a conversa
-- [ ] functionCalling - dar acesso ao GPT para nossos dados (se der tempo)
+
+## Segundo encontro
+
+O objetivo será experimentar function calling e também o Assistant API.
+
+- [ ] functionCalling - dar acesso ao GPT para nossos dados
+- [ ] functionCalling - Obter dados de arquivo CSV
+- [ ] functionCalling - Obter dados em tempo real
+- [ ] functionCalling - Enviar email
+- [ ] Assistant API
