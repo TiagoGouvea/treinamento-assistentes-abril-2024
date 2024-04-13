@@ -1,8 +1,8 @@
 import OpenAi from "openai";
+import dotenv from "dotenv";
+dotenv.config();
 
-const openaiKey = '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';
-
-const openai = new OpenAi({apiKey:openaiKey});
+const openai = new OpenAi({apiKey: process.env.OPENAI_API_KEY});
 
 async function main() {
     try{
