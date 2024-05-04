@@ -1,0 +1,209 @@
+A App Masters (www.appmasters.io) fundada por Tiago Gouvêa 2017, onde coordena pequenas equipes de desenvolvedores, desenvolvendo sistemas web e mobile para empresas de outros paises, mas também para o Brasil.
+Já fizemos projetos para clientes nos EUA, Canadá, Suiça, Portugal e Alemanha. Fizemos projetos para a prefeitura de Juiz de Fora, inclusive três deles voltados para combate aos impactos causados pela pandemia.
+A App Masters dá suporte para empresas nascentes, ajudando na validação de ideas, escolha de tecnologia e também na contratação e capacitação do time de desenvolvimento.
+Um MVP (web ou mobile) pode ser desenvolvido entre 1 e 3 meses, e pode custar entre 30 e 90 mil reais. Já um sistema mais robusto custará valores maiores que 100 mil.
+Aplicativos para celular simples partem de cerca de 60 mil reais com entrega em três meses. Projetos mais complexos exigem investimentos maiores.
+Trabalhamos também com alocação de time cobrada por hora.Temos uma equipe pronta para começar projetos em poucos dias.
+Não desenvolvemos websites, apenas sistemas web e aplicativos.
+Provedores cloud usamos AWS, GCP, Heroku, Vercel e Firebase. Nossa stack é JavaScript, com React, Next e Node. Mas sobre nossas tecnologias podem ser visto em www.appmasters.io/pt/tecnologias.
+Pode ser que tenhamos alguma vaga em aberto. Os processos de seleção da empresa acontecem exclusivamente pela plataforma https://programador.emjuizdefora.com/.
+Se as infomações acima não forem suficientes, responder com base no conteúdo de www.appmasters.io.
+
+A App Masters inicio seus trabalhos em 1⁰ de abril de 2017 (foi o dia da verdade) e de lá pra cá temos trilhado um caminho de ascendência constante. Somos um grande time de desenvolvimento de software, que busca a excelência no que faz, aprendendo sempre e buscando se aprimorar cada vez mais.
+
+Nossos clientes, Os que nos trouxeram até aqui: Ao longo dos últimos anos tivemos diversos clientes brasileiros dos mais variados setores. A maioria deles startups que precisavam de um software para realizar seus objetivos. Seja um aplicativo por assinatura, um marketplace de contratação de profissionais ou ferramenta de planejamento estratégico. Estes clientes confiaram em nós para desenvolver suas soluções e somos gratos por isso.
+
+Nossa equipe de desenvolvimento
+Pequenos times: Com pequenos times de desenvolvimento somos mais ágeis e eficientes. Conseguimos obter melhores resultados assim, uma vez que todos se conhecem e sabem quem é realmente bom no que, ficando mais fácil manter um ritmo constante. Utilizar novas tecnologias e aprender algo novo no processo também fica mais simples com times menores e coesos.
+Experiência com foco: Somos uma equipe de desenvolvedores jovens, mas experientes, que trabalharam com entidades privadas e governamentais para criar software utilizado por milhares de pessoas. Ao invés de lidarmos com várias stacks de desenvolvimento optamos por menos variedade par podemos focar e nos especializar ainda mais.
+Ágil e adaptável: Gostamos da agilidade e queremos que os projetos se adaptem a realidade, ao seu objetivo final, mesmo que seja necessário mudar o curso de vez em quando.
+Comunicação acima de tudo: Seja entre os desenvolvedores, seja com os parceiros ou clientes, valorizamos a comunicação. Por isso no nosso ambiente interno gostamos de conversar, falar, pensar em melhores maneiras de fazermos as coisas. Nossos clientes também têm voz, estamos aqui para ouvir quais problemas desejam resolver e pensarmos na melhor tecnologia para desenvolver a solução.
+
+Opinião de alguns clientes
+Em cada projeto a equipe demostrou total segurança ao entender os objetivos e o que estava em jogo. Eles nunca se limitaram a apenas seguir as tarefas designadas, como também trouxeram ótimas sugestões para melhorar o trabalho de todos e o projeto como um todo. Não há nenhum projeto pequeno demais ou grande demais em que eu não confiaria 100% na App Masters. - Patrick L. Perreault - Sócio na Getting to Global
+Eu estou bastante satisfeito com o trabalho da App Master. Desde o lançamento da primeira versão, já participamos de mais de uma dúzia de eventos e fizemos inúmeras melhorias em nossa plataforma. A App Masters tem sido nosso parceiro no aprimoramento da experiência geral da interface. Nós valorizamos nossa parceria com a App Masters e acreditamos que eles são um ótimo complemento para aqueles que desejam desenvolver um produto web.- Brian Leone - Sócio na Warp Speed Technologies
+O time da App Masters se esforçou para entregar um produto em tempo hábil e sem sair do orçamento. Eles foram extremamente acessíveis e fizeram dos processos técnicos e de planejamento etapas de simples entendimento. Para alguém com pouca experiência em desenvolvimento, achei a comunicação do time bastante clara e concisa. Senti confiança no conhecimento e nas habilidades da equipe durante todo o processo de desenvolvimento de produto. - April Dela Vega - CEO na Breakout Technologies
+Eu sempre digo para alguém que tem uma ideia de site, plataforma ou aplicativo, que a parte mais difícil é achar um bom time de desenvolvimento. É uma daquelas coisas que quando você finalmente acha um bom parceiro profissional, ele se torna parte do seu profissionalismo e credibilidade. Eu adoro recomendar a App Masters para amigos e conhecidos, é uma das melhores escolhas que alguém pode fazer quando se precisa de desenvolvimento de software. - Robert Woods - Sócio na Production Innovations
+Achei bem interessante a forma que a App Masters usa o Github como gestor de tarefas usando as issues. É um modelo que a gente não tinha aqui dentro da Reportei, usavamos outras formas de gerenciamento de projeto. Foi muito legal conhecer esse outro formato no dia a dia e ver isso evoluindo positivamento em nosso produto. - Rodrigo Nunes - Sócio na Reportei
+A App Masters foi fundamental na confecção técnica de uma prova de conceito em Conciliação de Pagamentos Distribuída baseada na tecnologia Blockchain. Profissionais de excelência e de fácil relacionamento pessoal. - Antônio Hoffert - Economista especialista em Blockchain
+A App Master possui diferenciais que são entender de fato o que o cliente precisa e contribuir permanente com opiniões e ideias durante a construção do sistema. É natural que nós clientes tenhamos dificuldade de explicar exatamente o que queremos, mas a equipe da App Master tornou essa comunicação muito mais fácil e eficiente. - Sérgio Mendes -Fundador na Cuide com Zelo
+Trabalhar com o App Masters é um prazer absoluto. Terceirizar, especialmente para uma empresa em um país diferente, é sempre uma decisão difícil, mas escolher App Masters foi a melhor escolha que poderíamos ter feito. Toda a equipe é muito experiente e extremamente dedicada. Desde o primeiro dia, sentimos que estávamos trabalhando com parceiros e não simplesmente contratando uma empresa de outro continente. - Yanik Proulx - Technical Director na Périmètre
+A dedicação da equipe da App Masters e a velocidade no atendimento às demandas foi preponderante, assim como a criatividade em buscar solução de fácil acesso a tão complicada demanda. - Rômulo Veiga - Secretário de Planejamento na Prefeitura de Juiz de Fora
+A App Masters foi super parceira, trazendo mais ideias para o projeto inicial, e entregando com uma qualidade acima do esperado. A atenção aos detalhes e o foco no nosso cliente final foram diferencias em nosso aplicativo. - Luiz Henrique - Diretor na Phormar
+O enfrentamento a pandemia demanda medidas de cautela como a suspensão das atividades escolares, e no Brasil, essa suspensão tem efeitos trágicos para crianças que contam com a Escola para acessarem alimentação básica. A parceria com a da App Masters foi fundamental para estruturarmos um programa tão complexo. - Antônio Almas - Prefeito na Prefeitura de Juiz de Fora
+
+Querendo ser maior, sempre
+Desde o início tínhamos o objetivo de crescer com parceiros e clientes de outros países, e com muito suor e trabalho temos alcançando nossos objetivos.
+2017 - Brasil : Início das operações e desenvolvimento de projetos
+2018 - Estados Unidos : Primeiro sistema desenvolvido para governos internacionais e construção de relacionamento com o primeiro parceiro fora do Brasil.
+2019 - Canadá : Novas parcerias e desenvolvimento de novos projetos com clientes no Canadá
+2020 - Suíça : Implementação de projetos envolvendo pessoas em quatro países, de três continentes distintos.
+2021 - Canadá++ : Estreitando parceria com criação de times internacionais
+2021 - Estados Unidos++ : Desenvolvimento de projeto com usuários distribuídos por todo o mundo.
+
+Os desafios são grandes e estamos dispostos a encara-los! Outras línguas, culturas, fuso horários… mas os resultados são visíveis e estamos gostando do que vemos.
+Comunidade de desenvolvedores: Somos envolvidos nas comunidades de programadores desde o início, por isso estamos sempre organizando eventos abertos, hackathons e bootcamps. Participar da comunidade nos faz mais fortes, aumentam nosso network com pessoas interessantes e até mesmo tem um papel social em nosso trabalho. Além do mais, ao estarmos tão ativos na comunidade é a melhor maneira de difundir as tecnologias que usamos e conhecer desenvolvedores que se identificam com elas.
+
+Nossos fundadores
+Walbet Vianna: Walbet Vianna é sócio de diversas empresas de grande destaque, é empresário e investidor há mais de 10 anos nas áreas de educação, tecnologia e saúde.
+Comecei a App Masters com o Tiago, pois desde o início percebi o grande potencial do negócio de desenvolvimento de projetos sólidos com uso da tecnologia. Somos uma equipe disposta a aprender, a compartilhar aprendizagens de forma colaborativa e a estimular constantemente a busca criativa de soluções. O foco no cliente e a parceria constante fazem da App Masters uma empresa de grande diferencial.
+
+Tiago Gouvêa: Líder dedicado ao desenvolvimento de software com 22 anos de experiência lidando com dezenas de projetos em diversos setores, Tiago adquiriu ao longo de sua carreira grande conhecimento na solução de problemas usando as tecnologias certas e desenvolveu habilidades no ensino de programação e gestão de times de desenvolvimento.
+A App Masters foi criada para apoiar o surgimento e crescimento de outras empresas com software e tecnologia. Desde o início, decidimos trabalhar apenas em alguns projetos simultaneamente para que pudéssemos dar o máximo de foco e atenção a cada cliente, e entregar a melhor solução possível. A melhor hora em qualquer projeto é ver o resultado final de nosso trabalho sendo utilizado por muitos usuários ao redor do mundo e trazendo grandes resultados para todos.
+
+Nossos fundamentos: Acreditamos que podemos fazer o mundo melhor através do desenvolvimento de tecnologias. Vamos em frente sempre com estes valores.
+Comprometimento: Alocamos desenvolvedores comprometidos com o resultado final dos projetos, que entendem que a qualidade é o que mais importa, sem nunca perder a atenção com os prazos.
+Competência: Mantemos nosso time em estado de constante aprendizado, entregando produtos cada vez melhores através do uso correto das tecnologias escolhidas.
+Criatividade: Buscamos soluções criativas para os desafios dos clientes através de interfaces simples de se entender e utilizar, e de soluções tecnológicas que atendem a demanda.
+Comunicação: Comunicação constante com nossos clientes é a chave para o nosso sucesso. Com o time bilíngue mantemos contato diário com entregas constantes.
+
+
+Nossos serviços: Desenvolvimento Web
+Nossa missão é criar soluções que transformem negócios e simplifiquem a vida dos usuários através da tecnologia. Somos experts em desenvolvimento web sob demanda, entregando aplicações de alta performance, responsivas e com foco no usuário final.  Desenvolvemos soluções web que são seguras, estáveis e facilmente escaláveis, para que possam crescer na velocidade da sua empresa. Trabalhamos utilizando os mais altos padrões de responsividade, velocidade, acessibilidade, SEO e experiência do usuários desde o início do projeto, assim você pode se assegurar que sua aplicação será extremamente competitiva no momento que chegar ao mercado.
+Aplicações web sob demanda podem ser complexas e por isso podem gerar custos adicionais não planejados, por isso priorizamos a eficiência e transparência durante todo o nosso processo de desenvolvimento. Nós prezamos por uma relação honesta com nossos clientes e fazemos o possível para que os custos de desenvolvimento sejam o mais eficiente possível.
+Nossa expertise: Desenvolvimento de Web Apps, Acesso a dados offline, Integrações com redes sociais, Aplicações leves, Teste de Frontend automatizados, Interfaces 100% responsivas,
+
+Nossos serviços: Desenvolvimento Mobile
+Desenvolvemos aplicações mobile sob demanda de alta performance, com foco em usabilidade e compatíveis com Android e iOS. Nossa missão é entregar experiências digitais com excelência, através de aplicativos mobile sob demanda intuitivos e com alto engajamento de usuário. Estamos sempre atualizados com as mais novas tecnologias e APIs, assim você pode ter certeza que receberá um produto da mais alta tecnologia.
+Manutenção e suporte constante estão disponíveis no nosso leque de soluções, conte conosco para melhorias e updates contínuos. Escalabilidade, segurança e velocidade nas entregas são valores que são seguidos à risca, evidenciados pela qualidade de aplicativos desenvolvidos.
+Flexibilidade e capacidade para se adaptar a novos desafios são demonstrados pela quantidade de aplicativos mobile já publicados nas lojas de aplicativos. Nos enche de orgulho dizer que já ficamos entre os 3 aplicativos mais vendidos na categoria saúde na App e Play Store.
+Nossos pontos fortes: Continuous Integration e Delivery, Desenvolvimento Android/iOS, Projetos multi-plataforma, Sicronização de dados offline, Modelos de aplicação por assinatura, Compras dentro do aplicativo, GPS e Tracking
+
+Nossos serviços: Desenvolvimento Desktop
+Se você procura por um software desktop sob demanda, a modernização das suas soluções existentes ou um middleware sob demanda para conectar as aplicações da sua empresa e assim torná-las mais ágeis e eficazes, a App Masters é o parceiro perfeito para você. O conhecimento técnico adquirido ao longo de anos de experiência, aliado a um profundo conhecimento na estrutura dos sistemas operacionais desktop, nos fazem a melhor escolha para resolver seus problemas mais complexos. Nossos especialistas estão atualizados nas mais modernas tecnologias e tem vasta experiência em desenvolvimento de aplicações desktop sob demandas para Windows, Mac e Linux. Conte conosco para desenvolvermos soluções desktop sob demanda que são intuitivas, funcionais e de alta qualidade.
+Economize seu tempo tendo seu software desenvolvido simultaneamente para múltiplos sistemas operacionais. Códigos e interfaces podem ser reutilizados entre plataformas. Nosso recurso de auto-update permite que atualizações estejam sempre em dia. Adicione recursos extras ao longo do projeto através dos nossos serviços de suporte e melhorias contínuas.Notificações de sistema podem ser adicionadas como avisos, lembretes, entre outras informações.
+O que fazemos melhor: Alta performance, Aplicações multi-plataforma, Integrações com aplicações de terceiros, Recurso de auto-update, Continuous Integration e Delivery, Notificações de sistema, File system acess, Obter um orçamento
+
+
+Projetos de clientes
+Alguns projetos não podem ser divulgados, os demais apresentamos aqui.
+
+Plataforma Breakout: Uma plataforma que oferece soluções de transmissão e gravação, assim como um repositório de vídeos sob demanda para congressos e eventos de associações científicas.
+Breakout Technologies (Raleigh, USA)
+
+LaunchPad: Uma aplicação nativa para iOS feito em Swift com firebase, para lidar com a organização e gravação de palestras em eventos de grande escala.
+Warp Speed Technologies (Raleigh, USA)
+
+Breakout App: Breakout App é um aplicativo desktop multiplataforma que realiza gravações de tela automaticamente e gerencia apresentações remotamente.
+Breakout Technologies (Raleigh, USA)
+
+BetterPoster: BetterPoster é uma solução de posters digitais para exibição de publicações científicas em eventos.
+Breakout Technologies (Raleigh, USA)
+
+Phormar Mobile: Um app android e iOS focado no engajamento dos participantes de fundos de formatura, trazendo tecnologia de ponta para facilitar a organização de grandes eventos envolvendo formandos.
+Phormar (Juiz de Fora/MG - Brasil)
+
+Export Connect: Uma plataforma que combina ferramentas e recursos para empresas que desejam ou estão no processo de internacionalização
+Getting to Global (Montreal, Canadá)
+
+Mapa da Vacina: Plataforma online que aproxima os cidadãos dos pontos de vacinação, mostrando onde e quando vacinar, além de dizer se há fila ou não naquele ponto.
+Prefeitura de Juiz de Fora (Juiz de Fora/MG - Brasil)
+
+Zelo: Desenvolvemos a melhor forma de encontrar cuidadores para seus familiares mais queridos.
+Zelo (Juiz de Fora/MG - Brasil)
+
+Mapa de Conteúdo: Ferramenta para o planejamento de marketing digital de uma marca, campanha ou projeto.
+Reportei (Juiz de Fora)
+
+e-Benefício: Solução open-source para garantir alimentação de famílias em situação de vulnerabilidade durante a pandemia do COVID-19.
+Prefeitura de Juiz de Fora (Juiz de Fora/MG - Brasil)
+
+Gestão de leitos hospitalares: Uma abordagem direta para auxiliar a prefeitura no momento da pandemia de coronavirus.
+Prefeitura de Juiz de Fora (Juiz de Fora/MG - Brasil)
+
+MaisVale: Acesso a descontos e promoções de produtos e serviços em diversas cidades, além de controle de fidelidade.
+MaisVale Marketing (Resende/RJ - Brasil)
+
+Willim Aeroportos: Aplicativo para auxiliar biólogos no controle de dados e prevenção de acidentes aeronáuticos em aeroportos.
+Sama Soluções Ambientais (Juiz de Fora/MG - Brasil)
+
+Blockchain: Blockhain para gerir pagamentos e confirmações de entregas de indústrias metalúrgicas
+Antonio Hoffert (Belo Horizonte/MG - Brasil)
+
+Chofer da Hora: Aplicativo para contratar os melhores motoristas da cidade, para que conduzam seu carro por você.
+Only Drivers (Juiz de Fora/MG - Brasil)
+
+Fibratech Expert: Sistema para simplificar a captação de possíveis clientes e potencializar a efetivação de novas matrículas
+Fibratech Academia (Juiz de Fora/MG - Brasil)
+
+Go Diamond: Aplicativo para revendedores Hinode acompanharem seus leads do primeiro contato até o fechamento da venda.
+(Juiz de Fora/MG - Brasil)
+Go Diamond
+
+UFJF - Eis a questão! Um quiz game educativo para estudantes interessados na UFJF que trás muito conhecimento e informação.
+UFJF (Juiz de Fora/MG - Brasil)
+
+Emagreça já: App para auxiliar aqueles que iniciaram sua dieta low carb e acompanhá-los em sua progressão
+Dr. Turi Souza (Niterói/RJ - Brasil)
+
+Projetos internos: Projetos que desenvolvemos para fins de estudos, validar alguma tecnologia ou apenas por diversão.
+Roadmap: O Roadmap é uma ferramenta web de gestão de conhecimento de equipes e repositório de informações voltada para gestores.
+Task Masters: Um sistema integrado ao GitLab e Hubstaff para acompanhar o ritmo de trabalho de todos os membros da equipe
+Good Burger: O Ranking das melhores hamburgerias da cidade em um web app leve e prático.
+Cartão de Visita WhatsApp: Envie rapidamente sua apresentação pelo WhatsApp.
+Tô Subindo: Um aplicativo para incentivar as pessoas a usarem as escadas dando pontos para quem sobe ou desce.
+Programadores em Juiz de Fora: Plataforma white-label para contração de desenvolvedores por empresas de Juiz de Fora.
+
+
+Acelere seu negócio com nossos desenvolvedores de alto nível
+Nós preparamos empresas para o futuro. Lançamos, aceleramos e damos suporte a soluções Web, Mobile e Desktop. Não deixe que a concorrência chegue na frente, transforme sua ideia em software hoje!
+
+Somos o time de desenvolvimento para o seu negócio!
+Ajudamos dezenas de empresas como a sua a transformar suas ideias inovadoras em aplicações intuitivas, funcionais e de alta performance impressionando clientes, investidores e colegas de trabalho.
+
+Somos especialistas em desenvolvimento de software, revolucionando e solucionando problemas através de aplicações web, mobile e desktop com os mais altos padrões de responsividade, desempenho, acessibilidade, SEO e experiência do usuário.
+
+Nossos princípios
+Velocidade de entrega: Somos desenvolvedores com brilho nos olhos focados em entregar resultados rápidos sem perder nosso padrão de qualidade elevado.
+
+Entregas contínuas:Nossos clientes testam seus projetos semanalmente com novas versões. Assim obtemos valiosos feedbacks que nos dão certeza que estamos no caminho certo para um produto de sucesso.
+
+Novas tecnologias:Trabalhamos com o que há de mais moderno em tecnologias para entregar o melhor para nosso cliente. Nosso time está constantemente se especializando afim de ter seus conhecimentos sempre em dia.
+
+
+Comunicação clara
+Boa comunicação é peça-chave para melhores resultados em projetos de software. Por isso criamos um canal direto e instântaneo para nossa comunicação com o cliente, além de reuniões periódicas e frequentes.
+
+Nossos serviços:Nosso time de especialistas trabalha duro para criar as melhores experiências digitais possíveis
+
+Saiba mais sobre nossos serviços aqui
+Desenvolvimento Web: Aplicações web sob demanda de alta performance, responsivas e com foco no usuário final.
+
+02
+Desenvolvimento Mobile: Aplicativos mobile Android e iOS sob demanda rápidos, intuitivos e com foco na experiência do usuário.
+
+03
+Desenvolvimento Desktop: Aplicações desktop sob demandas fluidas e intuitivas que performam bem nas principais plataformas desktop.
+
+04
+Cloud Computing: Integrações escaláveis com APIs e serviços de terceiros hospedadas em nuvem.
+
+Como trabalhamos: Formas pelas quais é possível trabalhar conosco
+
+
+Desenvolvimento completo: Contrate nosso time dedicado de desenvolvedores para projetar, desenvolver e lançar seu projeto.
+
+
+Aumento de equipe (Staff Augmentation)
+
+
+Um plano certo para o seu negócio
+01 - Agende uma reunião: Marque uma reunião conosco para podermos entender todos os detalhes sobre o seu projeto.
+
+02 - Propomos uma solução: Avaliamos internamente o volume de trabalho do seu projeto e propomos uma solução com estimativa de custos e prazos.
+
+03 - Iniciamos o desenvolvimento: Ao aceitar a proposta, colhemos seu feedback e damos início ao seu projeto junto com você.
+
+
+O que nossos clientes dizem sobre nós
+Em cada projeto a equipe demostrou total segurança ao entender os objetivos e o que estava em jogo. Eles nunca se limitaram a apenas seguir as tarefas designadas, como também trouxeram ótimas sugestões para melhorar o trabalho de todos e o projeto como um todo. Não há nenhum projeto pequeno demais ou grande demais em que eu não confiaria 100% na App Masters.
+Patrick L. Perreault - Sócio na Getting to Global
+
+Eu estou bastante satisfeito com o trabalho da App Master. Desde o lançamento da primeira versão, já participamos de mais de uma dúzia de eventos e fizemos inúmeras melhorias em nossa plataforma. A App Masters tem sido nosso parceiro no aprimoramento da experiência geral da interface. Nós valorizamos nossa parceria com a App Masters e acreditamos que eles são um ótimo complemento para aqueles que desejam desenvolver um produto web.
+Brian Leone - Sócio na Warp Speed Technologies
+
+O time da App Masters se esforçou para entregar um produto em tempo hábil e sem sair do orçamento. Eles foram extremamente acessíveis e fizeram dos processos técnicos e de planejamento etapas de simples entendimento. Para alguém com pouca experiência em desenvolvimento, achei a comunicação do time bastante clara e concisa. Senti confiança no conhecimento e nas habilidades da equipe durante todo o processo de desenvolvimento de produto.
+April Dela Vega - CEO na Breakout Technologies
+
+Receber uma proposta
+Não deixe que suas ideias inovadoras morram, preencha seus dados e dê o primeiro passo para torná-las realidade.
