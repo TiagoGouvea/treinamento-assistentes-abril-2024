@@ -13,7 +13,8 @@
     "functionCallingCsv": "node 2-segundo-encontro/functionCallingCsv.js",
     "assistant": "node 2-segundo-encontro/assistant.js",
     "assistantEmail": "node 2-segundo-encontro/assistantEmail.js",
-    "assistantSetup": "node 2-segundo-encontro/assistantSetup.js"
+    "assistantSetup": "node 2-segundo-encontro/assistantSetup.js",
+    "router": "node 3-terceiro-encontro/router.js"
   },
   "type": "module",
   "author": "",
