@@ -16,7 +16,9 @@
     "assistantSetup": "node 2-segundo-encontro/assistantSetup.js",
     "router": "node 3-terceiro-encontro/router.js",
     "ragEmbedLocal": "node 3-terceiro-encontro/ragEmbedLocal.js",
-    "ragSearchLocal": "node 3-terceiro-encontro/ragSearchLocal.js"
+    "ragSearchLocal": "node 3-terceiro-encontro/ragSearchLocal.js",
+    "ragEmbedSupabase": "node 3-terceiro-encontro/ragEmbedSupabase.js",
+    "ragSearchSupabase": "node 3-terceiro-encontro/ragSearchSupabase.js"
   },
   "type": "module",
   "author": "",
@@ -24,6 +26,7 @@
   "dependencies": {
     "@colors/colors": "^1.6.0",
     "@google/generative-ai": "^0.3.0",
+    "@supabase/supabase-js": "^2.43.1",
     "axios": "^1.6.8",
     "csv-parse": "^5.5.5",
     "dotenv": "^16.4.5",

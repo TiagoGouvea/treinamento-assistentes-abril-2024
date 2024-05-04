@@ -1,20 +1,18 @@
 import { TextLoader } from "langchain/document_loaders/fs/text";
 import { DirectoryLoader } from "langchain/document_loaders/fs/directory";
 import {CharacterTextSplitter, RecursiveCharacterTextSplitter} from "langchain/text_splitter";
+import { createClient } from '@supabase/supabase-js'
+const supabase = createClient(process.env.SUPABASE_URL, processa.env.SUPABASE_KEY );
 import dotenv from "dotenv";
 dotenv.config();
 
 import OpenAi from "openai";
-import * as fs from "fs";
 const openai = new OpenAi({apiKey:process.env.OPENAI_API_KEY});
-
 
 // 1 - LOAD
 console.log("🧪 1 - Load - TextLoader");
 
 const dataPath = './3-terceiro-encontro/files';
-const embeddingsPath = './3-terceiro-encontro/embeddings';
-
 
 // 1 >>> Load Documents
 
@@ -24,7 +22,6 @@ async function loadDocs(dataPath) {
         dataPath,
         {
             ".txt": (path) => new TextLoader(path),
-            ".pdf": (path) => new PDFLoader(path),
         }
     );
     return await loader.load();
@@ -37,6 +34,7 @@ console.log("Docs", docs.length);
 
 // 2 >>> Split
 console.log("🧪 2 - Split/chunk - CharacterTextSplitter");
+
 
 export const splitDocs = async ({docs,splitByParagraph}) => {
     // Reads the raw text file
@@ -55,26 +53,27 @@ export const splitDocs = async ({docs,splitByParagraph}) => {
     if (splitByParagraph){
         const splitter = new CharacterTextSplitter({
             separator: "\n",
-            chunkSize: 300,
-            chunkOverlap: 64,
+            chunkSize: 512,
+            chunkOverlap: 0,
         });
         chunks = await splitter.createDocuments([rawText]);
     } else {
         // Split by text size
-        let splitter = RecursiveCharacterTextSplitter.fromLanguage("js", {
-            chunkSize: 512,
-            chunkOverlap: 128,
-        });
-        chunks = await splitter.createDocuments([rawText]);
-        // throw new Error("Must set a split method");
+        // let splitter = RecursiveCharacterTextSplitter.fromLanguage("js", {
+        //     chunkSize: 32,
+        //     chunkOverlap: 0,
+        // });
+        // chunks = await splitter.splitText(lDoc[0].pageContent);
+        throw new Error("Must set a split method");
     }
 
     return chunks;
 }
 
-const chunks = await splitDocs({docs, splitByParagraph: false});
+const chunks = await splitDocs({docs, splitByParagraph: true});
 console.log("Chunks", chunks.length);
 // console.dir(chunks,{depth: null});
+
 
 // 3 >>> Embed
 console.log("🧪 3 - Embedding");
@@ -97,16 +96,11 @@ async function embedDocs(chunks) {
         // Percorro o array de respostas, para organizar um objeto a ser convertido em arquivo
         const result = [];
         for (let i = 0; i < chunks.length; i++) {
-
-            // Reduce embedding
-            // const reducedEmbedding = normalizeL2(response.data[i].embedding);
-
             // Adding each embedded para to embeddingStore
             result.push(
                 {
                     chunk: chunks[i].pageContent,
-                    embedding: JSON.stringify(response.data[i].embedding)
-                    // embedding: JSON.stringify(reducedEmbedding)
+                    embedding: response.data[i].embedding
                 }
             );
         }
@@ -120,25 +114,29 @@ async function embedDocs(chunks) {
             console.log(error);
         }
     }
-
-    function normalizeL2(x) {
-        if (Array.isArray(x)) {
-            const norm = Math.sqrt(x.reduce((acc, val) => acc + val ** 2, 0));
-            return x.map(val => val / norm);
-        } else {
-            return x;
-        }
-    }
 }
 const embeddings = await embedDocs(chunks);
 if (!embeddings || embeddings.length == 0)
     throw new Error("No embeddings found");
-
 console.log("Embeddings", embeddings.length);
 // console.dir(embeddings,{depth: null});
 // console.log(JSON.stringify(embeddings));
 
 // 4 >>> Store
 console.log("🧪 4 - Store embeddings");
-// Write embeddingStore to destination file
-fs.writeFileSync(embeddingsPath+'/embeddings.json', JSON.stringify(embeddings, null, 2));
+
+async function insertChunk(object){
+    const { data, error } = await supabase
+        .from('chunks')
+        .insert(object)
+        .select();
+    // console.log("data", data);
+    if (error)
+        console.log("error", error);
+}
+
+
+embeddings.forEach(async (embedding)=>{
+    await insertChunk({content:embedding.chunk, embedding: embedding.embedding});
+});
+

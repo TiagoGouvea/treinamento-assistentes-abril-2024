@@ -13,12 +13,12 @@ const embeddingsPath = './3-terceiro-encontro/embeddings';
 console.log("🧪 1 - Prompt");
 const prompts = [
     "A App Masters já fez serviços para quais países?",
-    // "Em que ano a empresa foi fundada?",
-    // "Quanto custa o desenvolvimento de um MVP?",
-    // "Qual foi o ultimo projeto realizado?",
-    // "Quais tecnologias a empresa usa?",
-    // "Quais os valores da empresa?",
-    // "Quem são os sócios da App Masters?"
+    "Em que ano a empresa foi fundada?",
+    "Quanto custa o desenvolvimento de um MVP?",
+    "Qual foi o ultimo projeto realizado?",
+    "Quais tecnologias a empresa usa?",
+    "Quais os valores da empresa?",
+    "Quem são os sócios da App Masters?"
 ];
 const random = Math.floor(Math.random() * prompts.length);
 const prompt = prompts[random];

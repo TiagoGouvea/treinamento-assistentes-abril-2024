@@ -1,13 +1,4 @@
-A App Masters (www.appmasters.io) fundada por Tiago Gouvêa 2017, onde coordena pequenas equipes de desenvolvedores, desenvolvendo sistemas web e mobile para empresas de outros paises, mas também para o Brasil.
-Já fizemos projetos para clientes nos EUA, Canadá, Suiça, Portugal e Alemanha. Fizemos projetos para a prefeitura de Juiz de Fora, inclusive três deles voltados para combate aos impactos causados pela pandemia.
-A App Masters dá suporte para empresas nascentes, ajudando na validação de ideas, escolha de tecnologia e também na contratação e capacitação do time de desenvolvimento.
-Um MVP (web ou mobile) pode ser desenvolvido entre 1 e 3 meses, e pode custar entre 30 e 90 mil reais. Já um sistema mais robusto custará valores maiores que 100 mil.
-Aplicativos para celular simples partem de cerca de 60 mil reais com entrega em três meses. Projetos mais complexos exigem investimentos maiores.
-Trabalhamos também com alocação de time cobrada por hora.Temos uma equipe pronta para começar projetos em poucos dias.
-Não desenvolvemos websites, apenas sistemas web e aplicativos.
-Provedores cloud usamos AWS, GCP, Heroku, Vercel e Firebase. Nossa stack é JavaScript, com React, Next e Node. Mas sobre nossas tecnologias podem ser visto em www.appmasters.io/pt/tecnologias.
-Pode ser que tenhamos alguma vaga em aberto. Os processos de seleção da empresa acontecem exclusivamente pela plataforma https://programador.emjuizdefora.com/.
-Se as infomações acima não forem suficientes, responder com base no conteúdo de www.appmasters.io.
+
 
 A App Masters inicio seus trabalhos em 1⁰ de abril de 2017 (foi o dia da verdade) e de lá pra cá temos trilhado um caminho de ascendência constante. Somos um grande time de desenvolvimento de software, que busca a excelência no que faz, aprendendo sempre e buscando se aprimorar cada vez mais.
 
